@@ -1,5 +1,5 @@
-(defproject cljstang "0.1.0-SNAPSHOT"
-  :description "clojurescript lib"
+(defproject cljstang "0.1"
+  :description "itang's clojurescript lib"
   :url "http://cljstang.itang.me"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
